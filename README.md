@@ -1,4 +1,4 @@
-# FaceBookAntiSpam
+# Facebook Anti-Spam
 
 Let's give back the Facebook message spammers a little bit of their own medicine.
 
